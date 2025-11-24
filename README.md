@@ -3,7 +3,7 @@
 </div>
 
 ## Hi everyone, 
-I’m GhotsuDev a software developer student (engineer soon!), so if you can teach me more about this world we could be frends.
+I’m GhotsuDev a software developer student (engineer soon!), so if you can teach me more about this world we could be friends.
 
 ## Skills:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,gcp,firebase,idea,vscode,java,py,flutter,c,cs,cpp,mysql,mongodb,nodejs)](https://skillicons.dev)
