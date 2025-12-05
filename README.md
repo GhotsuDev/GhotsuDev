@@ -6,7 +6,7 @@
 I’m GhotsuDev a software developer student (engineer soon!), so if you can tell me how to be better in this world we could be friends.
 
 ## Skills:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,gcp,docker,firebase,vs,idea,vscode,java,py,flutter,c,cs,cpp,mysql,mongodb,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,gcp,docker,firebase,vstudio,idea,vscode,java,py,flutter,c,cs,cpp,mysql,mongodb,nodejs)](https://skillicons.dev)
 
 ## About Me...
 - 🔭 I’m currently working on web projects
