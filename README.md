@@ -17,7 +17,7 @@ I’m GhotsuDev a software developer student (engineer soon!), so if you can tel
 ## History
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=GhotsuDev&theme=black-ice" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=GhotsuDev&theme=microsoft-dark" alt="GitHub Streak" />
   </a>
 </div>
 <!--
